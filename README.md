@@ -1,2 +1,2 @@
 # python_basics
-Here, I put my codes using to learn and train python.
+Here, I put my codes I used to learn and train python.
